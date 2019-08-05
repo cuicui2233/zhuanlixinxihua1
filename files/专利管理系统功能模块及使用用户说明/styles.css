@@ -46,21 +46,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:495px;
-  height:523px;
+  width:560px;
+  height:490px;
 }
 #u2 {
   position:absolute;
-  left:53px;
-  top:167px;
-  width:495px;
-  height:523px;
+  left:20px;
+  top:170px;
+  width:560px;
+  height:490px;
 }
 #u3 {
   position:absolute;
   left:2px;
-  top:254px;
-  width:491px;
+  top:237px;
+  width:556px;
   visibility:hidden;
   word-wrap:break-word;
 }
